@@ -1,5 +1,5 @@
  
-<h1 align="center">Hi 👋, I'm mubashirazeemim</h1>
+<h1 align="center">Hi 👋, I'm mubashirazeemi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 - 💬 Ask me about **React.js Blockchain Devops**
